@@ -1,0 +1,19 @@
+[submodule "vendor/jxrlib/current"]
+	path = vendor/jxrlib/current
+	url = https://github.com/4creators/jxrlib.git
+[submodule "vendor/libiconv/current"]
+	path = vendor/libiconv/current
+	url = https://github.com/winlibs/libiconv.git
+[submodule "vendor/libjpeg-turbo/current"]
+	path = vendor/libjpeg-turbo/current
+	url = https://github.com/libjpeg-turbo/libjpeg-turbo.git
+[submodule "vendor/cocos2d-x/current"]
+	path = vendor/cocos2d-x/current
+	url = https://github.com/cocos2d/cocos2d-x.git
+	branch = v3
+[submodule "vendor/libgdiplus"]
+	path = vendor/libgdiplus
+	url = https://github.com/mono/libgdiplus.git
+[submodule "vendor/lz4"]
+	path = vendor/lz4
+	url = https://github.com/mono/libgdiplus.git
