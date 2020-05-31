@@ -17,3 +17,21 @@
 [submodule "vendor/lz4"]
 	path = vendor/lz4
 	url = https://github.com/mono/libgdiplus.git
+[submodule "vendor/opus/current"]
+	path = vendor/opus/current
+	url = https://github.com/xiph/opus.git
+[submodule "vendor/opus/opusfile"]
+	path = vendor/opus/opusfile
+	url = https://github.com/xiph/opusfile.git
+[submodule "vendor/opencv/current"]
+	path = vendor/opencv/current
+	url = https://github.com/opencv/opencv.git
+[submodule "libs/android/libarchive"]
+	path = libs/android/libarchive
+	url = https://github.com/libarchive/libarchive.git
+[submodule "vendor/agg/current"]
+	path = vendor/agg/current
+	url = https://github.com/tomhughes/agg.git
+[submodule "vendor/expat/current"]
+	path = vendor/expat/current
+	url = https://github.com/libexpat/libexpat.git
