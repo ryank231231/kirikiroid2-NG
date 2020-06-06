@@ -32,3 +32,9 @@
 [submodule "vendor/expat/current"]
 	path = vendor/expat/current
 	url = https://github.com/libexpat/libexpat.git
+[submodule "vendor/onig/current"]
+	path = vendor/onig/current
+	url = https://github.com/kkos/oniguruma.git
+[submodule "vendor/google_breakpad/current"]
+	path = vendor/google_breakpad/current
+	url = https://chromium.googlesource.com/breakpad/breakpad
